@@ -6,7 +6,7 @@
             sites: [
 		      // { url: 'img/4.jpg' ,href : 'https://chanshike.cn/?uid=127825' },  //禅试客
 		      { url: 'img/1.jpg' ,href : 'https://www.eimoney.com/diamonds/mobile/share/link?promote_code=3034807' },  //爱钱
-		      { url: 'img/2.jpg' ,href : 'https://xiaoxiao517.com/?u=52894277&referer_code=bc87e230cd' }
+		      { url: 'img/2.jpg' ,href : 'https://shike.com/i/WQjpHCy' }
 		      // { url: 'img/3.jpg' ,href : 'http://www.baidu.com' }
 		    ]
         	}
