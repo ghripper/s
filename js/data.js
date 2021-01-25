@@ -16,7 +16,7 @@
 		  el: '#pingtai',
 		  data: {
 		    sites: [
-		      { ico: 'img/imoney.png' ,name: '爱钱' ,href : 'https://im.vsolution.online/landing/guide.html?promote=4468082' },
+		      { ico: 'img/imoney.png' ,name: '爱钱' ,href : ' https://cuisine-talk.com/landing/share.html?promote=4468082' },
 		      { ico: 'img/shike.png' ,name: '试客' ,href : 'https://shike.com/i/WQjpHCy' },
 		      { ico: 'img/xiaoyu.jpg' ,name: '小鱼' ,href : 'http://wx.xy599.com/share.php?id=18358348&act_source=invite' },
 		      { ico: 'img/qianmai.jpg' ,name: '钱脉' ,href : 'https://m.qianmaiap.com/?u=1206876' },
